@@ -1,5 +1,7 @@
 # GraphQL-Express  
-### Install dependencies
+### ABCs of GraphQL with Express
+
+### Install dependencies  
 
 ```
 npm install
